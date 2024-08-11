@@ -17,4 +17,4 @@ wg_porter is an utility that just configures your wg interface. No need to run w
 2. python package: wgconfig https://pypi.org/project/wgconfig/
 
 # Tips
-You wireguard_install.sh to simplify wireguard installation and peer(user/client) setup. https://github.com/angristan/wireguard-install
+You can use wireguard_install.sh to simplify wireguard installation and peer(user/client) setup. https://github.com/angristan/wireguard-install
